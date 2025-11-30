@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using static System.Console;
 
-namespace PLINQ
+namespace ConsoleApp15
 {
     public class Resume
     {
@@ -266,4 +266,5 @@ namespace PLINQ
             }
         }
     }
+
 }
